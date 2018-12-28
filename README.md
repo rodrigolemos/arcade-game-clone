@@ -4,7 +4,7 @@ Project requested by Udacity as a form of graduation in the Nanodegree Front-End
 
 ## Basic Functionality
 
-It's been too hot lately, so our player is trying to cool down diving into a river. Can you help him? The goal of the player is to reach the water, without colliding into any one of the enemies. The player can move left, right, up and down. The enemies move on the brick zone and varying speed according to player level. Once a the player collides with an enemy, the game is reset and the player moves back to the start square.
+It's been too hot lately, so our player is trying to cool down diving into a river. Can you help him? The goal of the player is to reach the water, without colliding into any one of the enemies. The player can move left, right, up and down. The enemies move on the brick zone and varying speed according to player level. Once the player collides with an enemy, the game is reset and the player moves back to the start square.
 
 ## How to run
 
