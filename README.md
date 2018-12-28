@@ -21,6 +21,10 @@ Using the arrow keys, you have to take your player to the water avoiding touchin
 * If you return, your point counter will be reseted and when you reach the other side you won't score as much as you think. So, don't go back.
 * If you score a 1000 points you'll win a trophy, but won't be stopped until you lose all your lives. So keep playing and try to be the best!
 
+## See it runing!
+
+* [Classic Arcade Game Clone Project](https://rodrigolemos.github.io/)
+
 ## Author
 
 Rodrigo Lemos
