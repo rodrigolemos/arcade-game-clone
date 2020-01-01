@@ -13,33 +13,12 @@ class HUD {
       ctx.fillStyle = "beige";
       ctx.fillRect(0, 50, 505, 535);
 
-      ctx.font = "14pt Fredoka One";
+      ctx.font = "20pt Fredoka One";
       ctx.fillStyle = "darkred";
-      ctx.fillText(`Hi there, friend! How you doin?`, 255, 130);
-
-      ctx.textAlign = "center";
-      ctx.font = "11pt Fredoka One";
-      ctx.fillText(`It's been too hot lately, so I'm planning to dive into this river.`, 255, 170);
-      ctx.fillText(`What do you think?`, 255, 190);
-
-      ctx.fillText(`Using the arrow keys, please take me to the water`, 255, 230);
-      ctx.fillText(`avoiding these annoying and giant bugs.`, 255, 250);
-
-      ctx.fillText(`I LIKE ADRENALINE!`, 255, 290);
-      ctx.font = "10pt Fredoka One";
-
-      ctx.fillText(`The longer I stand in the brick zone, more points I score, but remember:`, 255, 310);
-      ctx.fillText(`THESE POINTS ARE ONLY COUNTED IF I REACH THE WATER!`, 255, 330);
-
-      ctx.font = "11pt Fredoka One";
-      ctx.fillText(`I LIKE CHALLENGES!`, 255, 370);
-
-      ctx.font = "10pt Fredoka One";
-      ctx.fillText(`Scoring 1000 points I magically win a trophy!`, 255, 390);
-      ctx.fillText(`(don't ask me how)`, 255, 410);
+      ctx.fillText(`Hey there!`, 255, 250);
 
       ctx.font = "14pt Fredoka One";
-      ctx.fillText(`That's it! Press enter and help me!`, 255, 460);
+      ctx.fillText(`Press enter and help me to get to the other side!`, 255, 330);
 
       ctx.globalAlpha = 1.0;
     }
