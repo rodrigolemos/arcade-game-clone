@@ -1,8 +1,10 @@
 body {
-    text-align: center;
     background-image: linear-gradient(to bottom, orange, red);
     background-repeat:no-repeat;
     background-size: 100%;
-    min-height: 1050px;
+    height: 100vh;
     overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
